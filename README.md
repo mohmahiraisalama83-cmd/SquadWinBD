@@ -1,2 +1,0 @@
-# SquadWinBD
-Created with Wevlo
